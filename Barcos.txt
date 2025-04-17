@@ -1,0 +1,6 @@
+Portaaviones-P-6
+Acorazado-A-5
+Crucero-C-4
+Destructor-D-3
+Fragata-F-2
+Submarino-S-1
